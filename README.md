@@ -1,3 +1,4 @@
+# <h1 align="center">Hi, I'm <a href="https://github.com/nicoc9565">Nicoc95<a><img src="https://github.com/nicoc9565/nicoc9565/assets/107004558/ab7da788-e55a-4f8c-8069-9defa4506962" width="60px" /></h1>
 ### Hi there 👋
 
 <!--
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image](https://github.com/nicoc9565/nicoc9565/assets/107004558/3eb50056-4c88-40d3-8c81-48099508326a)
